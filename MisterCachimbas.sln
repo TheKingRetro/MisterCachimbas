@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MisterCachimbas", "MisterCachimbas\MisterCachimbas.pyproj", "{3D7D3DF6-E799-48B5-994D-EEB04252E294}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{D1525987-6654-4C6F-8A72-A61AE6FB5A3B}"
+	ProjectSection(SolutionItems) = preProject
+		app.py = app.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D7D3DF6-E799-48B5-994D-EEB04252E294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7D3DF6-E799-48B5-994D-EEB04252E294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7D3DF6-E799-48B5-994D-EEB04252E294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7D3DF6-E799-48B5-994D-EEB04252E294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {010B0C40-1B7D-46DF-B08E-0BD1A5C2EA69}
+	EndGlobalSection
+EndGlobal
